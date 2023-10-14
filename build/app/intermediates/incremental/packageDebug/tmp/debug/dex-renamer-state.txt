@@ -1,0 +1,4 @@
+#Sun Oct 15 01:00:32 BDT 2023
+base.0=D\:\\App development\\MyApp\\todo_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
